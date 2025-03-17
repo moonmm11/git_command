@@ -22,3 +22,9 @@ git init
 git remote add origin <repository url>
 git pull origin master --allow-unrelated-histories
 ```
+
+## 레포지토리 가져오기
+```bash
+git clone < repository url >
+npx degit < user name / repository title > 
+```

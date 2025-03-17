@@ -6,7 +6,8 @@
 [03-Branch, Merge, PullRequest](https://github.com/jimeal/git-recipe/blob/main/03-branch.md)   
 [04-Amend, Restore, Reset, Revert, HEAD연산자](https://github.com/jimeal/git-recipe/blob/main/04-restore.md)   
 [05-Stash, CherryPick](https://github.com/jimeal/git-recipe/blob/main/05-stash.md)   
-[06-빈커밋, 원격에 내용있을경우](https://github.com/jimeal/git-recipe/blob/main/06-other.md)   
+[06-빈커밋, 원격에 내용있을경우](https://github.com/jimeal/git-recipe/blob/main/06-other.md)  
+[07-other]()   
 [잘못커밋한 대용량 파일](https://blog.naver.com/jmb2981/223221160542)   
 [gh-pages사용하기](https://blog.naver.com/jmb2981/223193478883)   
    
